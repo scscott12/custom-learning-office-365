@@ -163,6 +163,25 @@
       ]
     },
     {
+      "Id": "1de11fac-5678-4612-9d10-2cd2f6eb4f52",
+      "Name": "Information Technology",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Patrick Engineering",
+      "SubCategories": [
+        {
+          "Id": "aa1b2f2f-c152-4629-a104-4f795d9226be",
+          "Name": "Multi-Factor Authentication (MFA)",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Patrick Engineering",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Scenarios",
       "Image": "",
