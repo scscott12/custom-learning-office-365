@@ -178,6 +178,24 @@
           "SubjectId": null,
           "Source": "Patrick Engineering",
           "SubCategories": []
+        },
+        {
+          "Id": "0979efc4-0443-4d7f-bcf8-47e736288b46",
+          "Name": "Deltek",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Patrick Engineering",
+          "SubCategories": []
+        },
+        {
+          "Id": "e1c5fbaa-bf9b-48df-9404-a04cb569969e",
+          "Name": "Project Managment Dashboard",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Patrick Engineering",
+          "SubCategories": []
         }
       ]
     },
