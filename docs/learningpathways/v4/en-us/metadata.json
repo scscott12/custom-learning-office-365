@@ -187,7 +187,17 @@
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Patrick Engineering",
-          "SubCategories": []
+          "SubCategories": [
+            {
+              "Id": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+              "Name": "Project Manager Handbook",
+              "Image": "images/categories/first_days.png",
+              "TechnologyId": "",
+              "SubjectId": null,
+              "Source": "Patrick Engineering",
+              "SubCategories": []
+            }
+          ]
         }
       ]
     },
