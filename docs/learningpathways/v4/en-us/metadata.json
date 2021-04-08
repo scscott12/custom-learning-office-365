@@ -209,6 +209,24 @@
       ]
     },
     {
+      "Id": "3996e13f-07be-4e12-8819-7ddff7d2f7b8",
+      "Name": "Leadership + Management",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": []
+    },
+    {
+      "Id": "6686c0b2-dcd7-4c0b-b387-bfb329bcb009",
+      "Name": "Performance Management",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": []
+    },
+    {
       "Id": "aa1b2f2f-c152-4629-a104-4f795d9226be",
       "Name": "Project Manager Training",
       "Image": "",
