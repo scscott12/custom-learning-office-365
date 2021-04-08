@@ -774,7 +774,10 @@
     "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
     "SubjectId": "",
     "Source": "Microsoft",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": [
+      "46589138-0dde-4ea5-b9a1-313481a8eb06",
+      "c71d06be-133b-4c49-8fbf-404f7cc3c38f"
+      ],
     "Description": "Get started quickly with the Outlook Quick Start guide. Learn how to add an email account, create and send email, use @mentions, show Focused inbox, manage your calendar and contacts, schedule an appointment using Scheduling Assistant, add a contact, collaborate in Outlook, share a file, set up an online meeting and shared notes, and set up your mobile apps.",
     "StatusTagId": "",
     "StatusNote": "",
