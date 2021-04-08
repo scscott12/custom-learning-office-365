@@ -2997,26 +2997,5 @@
       "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
       "079cd574-3e04-4dc1-bcc1-6d0797970723"
     ]
-  },
-  {
-    "Id": "11c94c31-8408-4292-877e-1b83c6d565cc",
-    "Title": "Chapter 1 | Health + Safety",
-    "Image": "images/playlists/excel_quick_start.png",
-    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
-    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
-    "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
-    "SubjectId": "",
-    "Source": "Microsoft",
-    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
-    "Description": "Get started quickly with the Excel Quick Start guide. Learn how to create a workbook, enter data, save your workbook to OneDrive, automatically fill a column with Flash Fill, quickly calculate with AutoSum, create a chart, or use conditional formatting with Quick Analysis, freeze the top row, share your workbook to collaborate with others, and set up your mobile apps.",
-    "StatusTagId": "",
-    "StatusNote": "",
-    "Assets": [
-      "94b00f50-5896-479c-b0c5-ff74603b35a3",
-      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
-      "11a632c1-197e-454f-a515-374a4aa2b3dd",
-      "a8af741e-00f2-44c0-a94b-38abd51af01f",
-      "64b51431-c51a-45db-8ddd-d58b9b101c42"
-    ]
   }
 ]
