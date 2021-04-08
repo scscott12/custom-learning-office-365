@@ -209,12 +209,21 @@
       ]
     },
     {
+      "Id": "b5374747-0f3c-48cf-8650-3f0bde75e0d4",
+      "Name": "Digital Transformation",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Patrick Engineering",
+      "SubCategories": []
+    },
+    {
       "Id": "3996e13f-07be-4e12-8819-7ddff7d2f7b8",
       "Name": "Leadership + Management",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Patrick Engineering",
       "SubCategories": []
     },
     {
@@ -223,7 +232,16 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Patrick Engineering",
+      "SubCategories": []
+    },
+    {
+      "Id": "ab5ef256-d12a-402b-bad2-e108b212e8f5",
+      "Name": "Professional Development",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Patrick Engineering",
       "SubCategories": []
     },
     {
