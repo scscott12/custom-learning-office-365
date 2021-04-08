@@ -163,49 +163,21 @@
       ]
     },
     {
-      "Id": "1de11fac-5678-4612-9d10-2cd2f6eb4f52",
-      "Name": "Business",
+      "Id": "aa1b2f2f-c152-4629-a104-4f795d9226be",
+      "Name": "Project Manager Training",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Patrick Engineering",
       "SubCategories": [
         {
-          "Id": "aa1b2f2f-c152-4629-a104-4f795d9226be",
-          "Name": "Project Manager Training",
+          "Id": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+          "Name": "Project Manager Handbook",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Patrick Engineering",
-          "SubCategories": [
-            {
-              "Id": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
-              "Name": "Project Manager Handbook",
-              "Image": "images/categories/first_days.png",
-              "TechnologyId": "",
-              "SubjectId": null,
-              "Source": "Patrick Engineering",
-              "SubCategories": []
-            },
-            {
-              "Id": "79c6835a-5bc0-4257-92e5-6c04590b2b1d",
-              "Name": "Deltek",
-              "Image": "images/categories/first_days.png",
-              "TechnologyId": "",
-              "SubjectId": null,
-              "Source": "Patrick Engineering",
-              "SubCategories": []
-            },
-            {
-              "Id": "5f2d5cd5-80b1-4702-93e6-479d9dcf15d8",
-              "Name": "Project Management Dashboard",
-              "Image": "images/categories/first_days.png",
-              "TechnologyId": "",
-              "SubjectId": null,
-              "Source": "Patrick Engineering",
-              "SubCategories": []
-            }
-          ]
+          "SubCategories": []
         }
       ]
     },
