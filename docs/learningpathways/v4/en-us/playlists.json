@@ -3301,5 +3301,43 @@
       "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
       "079cd574-3e04-4dc1-bcc1-6d0797970723"
     ]
+  },
+  {
+    "Id": "3710358a-c5bc-4d3b-8989-fcfed9cbfd31",
+    "Title": "Review Projects",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "Patrick Enineering",
+    "CatId": "79c6835a-5bc0-4257-92e5-6c04590b2b1d",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "c9e67880-1814-4733-ab9c-62b156788052",
+    "Title": "Opportunities",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "Patrick Enineering",
+    "CatId": "79c6835a-5bc0-4257-92e5-6c04590b2b1d",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
   }
 ]
