@@ -174,7 +174,7 @@
     },
     {
       "Id": "1de11fac-5678-4612-9d10-2cd2f6eb4f52",
-      "Name": "Information Technology",
+      "Name": "Business",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -182,7 +182,7 @@
       "SubCategories": [
         {
           "Id": "aa1b2f2f-c152-4629-a104-4f795d9226be",
-          "Name": "Multi-Factor Authentication (MFA)",
+          "Name": "Project Manager Training",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": null,
