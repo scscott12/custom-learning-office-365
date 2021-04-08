@@ -133,6 +133,13 @@
       "Subjects": []
     }
   ],
+  "People": [
+    {
+      "Id": "9ccfb3b7-dccf-471b-97e7-bcd113893252",
+      "Name": "Project Managers",
+      "Subjects": []
+    }
+  ],
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
