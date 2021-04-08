@@ -2999,6 +2999,25 @@
     ]
   },
   {
+    "Id": "51e38a6d-914f-40d4-8c6d-bddf055c1aaa",
+    "Title": "Chapter 0 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
     "Id": "c0b417d3-9c91-441e-90ff-436ea5ca8a17",
     "Title": "Chapter 1 | Health + Safety",
     "Image": "images/playlists/teams_approvals.png",
@@ -3007,7 +3026,273 @@
     "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
     "SubjectId": "",
     "Source": "SOC",
-    "CatId": "aa1b2f2f-c152-4629-a104-4f795d9226be",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "a373d19a-edee-4c11-b8b7-25eafc1955b5",
+    "Title": "Chapter 2 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "9775df6e-e1df-4c54-a79a-b0beff77cb4d",
+    "Title": "Chapter 3 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "f0d9384e-7a51-4dcd-beac-1f65a4d3e87b",
+    "Title": "Chapter 4 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "7e26d434-bc52-4240-9fa3-1fba2696ec08",
+    "Title": "Chapter 5 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "17da0ee6-5aff-4659-996d-302375677660",
+    "Title": "Chapter 6 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "21d7dee3-1cd6-4b29-9281-9a349395976a",
+    "Title": "Chapter 7 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "75c2c270-f25c-4506-bb61-e72a9b542cda",
+    "Title": "Chapter 8 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "53fadc7c-cd5d-42fa-9e6c-e05aced3d584",
+    "Title": "Chapter 9 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "ae109388-9ab1-4db4-9a44-b66a45744fbe",
+    "Title": "Chapter 10 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "7b3e902c-ac03-491d-84fb-683372e88ea6",
+    "Title": "Chapter 11 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "510d4e28-facf-48bc-9135-0096fe7f6b30",
+    "Title": "Chapter 12 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "82e45369-ded9-417b-8d3d-d6ab21f5fead",
+    "Title": "Chapter 13 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "fd96f2b0-03de-4997-90de-b19fb824e56e",
+    "Title": "Chapter 14 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
+    "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "fc8da528-2cbd-4079-accd-8435ab70cabd",
+      "0da0c87d-ea04-41fe-bf2a-dbae4d98e185",
+      "079cd574-3e04-4dc1-bcc1-6d0797970723"
+    ]
+  },
+  {
+    "Id": "a2719ef9-b6b9-47d9-9274-19deb0692deb",
+    "Title": "Chapter 15 | Health + Safety",
+    "Image": "images/playlists/teams_approvals.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "fd38c012-eac9-4d92-b330-106f888283f0",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "a42bf077-cfda-44b9-bdf3-a73a04c8a58b",
     "Description": "Approvals in Microsoft Teams is a way to streamline all of your requests and processes with your team or partners. Learn how to create new approvals, view the ones sent your way, and see all of your previous approvals in one place.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
