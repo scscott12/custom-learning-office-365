@@ -1,5 +1,8 @@
 [
   {
+    "COMMENT": "PASTE MICROSOFT ASSETS BELOW"
+  },
+  {
     "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
     "Title": "Create a workbook in Excel",
     "Description": "",
@@ -9073,5 +9076,8 @@
     "Source": "SOC",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
-  }
+  },
+  {
+    "COMMENT": "PATRICK ENGINEERING ASSETS"
+  },
 ]
