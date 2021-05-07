@@ -177,6 +177,24 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
+        },
+        {
+          "Id": "8ae63653-f127-4b10-a1c3-98e393fddb9b",
+          "Name": "Marketing Essentials",
+          "Image": "images/categories/hybridwork.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Patrick Engineering",
+          "SubCategories": []
+        },
+        {
+          "Id": "dee4dfad-eb1c-44d1-bb4c-88cf69caedd6",
+          "Name": "Marketing Essentials",
+          "Image": "images/categories/hybridwork.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Patrick Engineering",
+          "SubCategories": []
         }
       ]
     },
@@ -216,6 +234,24 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "ec28f4b7-2758-42a8-8e75-47b41c63f798",
+      "Name": "Management + Leadership",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Patrick Engineering",
+      "SubCategories": []
+    },
+    {
+      "Id": "ec28f4b7-2758-42a8-8e75-47b41c63f798",
+      "Name": "Employee",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Patrick Engineering",
+      "SubCategories": []
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
